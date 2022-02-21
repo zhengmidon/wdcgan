@@ -12,11 +12,11 @@ jingju_baseline/
 	|-- test.py 			#test script of improved model
 	|-- test_base.py 		#test script of baseline model
 	|-- val_img_gen.py 		#some functional functions
-	|-- *.pth 				#checkpoint files
+	|-- *.pth 			#checkpoint files
 	|-- crypko_data/ 		#put training data here 
 	|-- logs/ 		    	#log pics of every epoch for improved model
 	|-- logs_base/ 			# log pics of every epoch for baseline model
-	|-- test/ 				# test set
+	|-- test/ 			# test set
 ```
 ### Environment Preparation
 ```
