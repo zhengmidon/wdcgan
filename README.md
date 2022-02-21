@@ -5,7 +5,7 @@ For details please refer to [this paper](https://github.com/zhengmidon/wdcgan/bl
 ### Directory Annotation
 ```
 jingju_baseline/
-	|-- base_training.log 	#training log of baseline model
+	|-- base_training.log 		#training log of baseline model
 	|-- training.log 		#training log of improved model
 	|-- dcgan.py 			#baseline model script
 	|-- wdcgan.py 			#improved model script
