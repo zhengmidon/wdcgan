@@ -156,7 +156,7 @@ def validate(G,last_fid,retry):
     #generating images for validation
     generate_val_imgs(G,temp_path,device,nimgs = 2000)
 
-    val_paths = [temp_path,os.path.join(os.getcwd(),'validation')]
+    val_paths = [temp_path,os.path.join(os.getcwd(),'test')]
     #employ pytorch_fid to calculate fid score
     fid_value = calculate_fid_given_paths(val_paths,
                                           50,
