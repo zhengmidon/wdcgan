@@ -4,7 +4,7 @@ Baseline model is based on [this](https://colab.research.google.com/drive/1JYY_H
 For details please refer to [this paper](https://github.com/zhengmidon/wdcgan/blob/master/%E7%94%A8%E4%BA%8E%E5%8A%A8%E6%BC%AB%E5%A4%B4%E5%83%8F%E7%94%9F%E6%88%90%E7%9A%84%E6%94%B9%E8%BF%9B%20DCGAN.pdf)
 ### Directory Annotation
 ```
-jingju_baseline/
+/
 	|-- base_training.log 		#training log of baseline model
 	|-- training.log 		#training log of improved model
 	|-- dcgan.py 			#baseline model script
